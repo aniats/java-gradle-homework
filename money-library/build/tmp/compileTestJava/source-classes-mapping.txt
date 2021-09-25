@@ -1,0 +1,8 @@
+com/practicalunittesting/chp03/money/MoneyTest.java
+ com.practicalunittesting.chp03.money.MoneyTest
+com/practicalunittesting/chp03/money/MoneyParameterizedTest.java
+ com.practicalunittesting.chp03.money.MoneyParameterizedTest
+com/practicalunittesting/chp03/money/MoneyManyValuesTest.java
+ com.practicalunittesting.chp03.money.MoneyManyValuesTest
+com/practicalunittesting/chp03/money/MoneyIAETest.java
+ com.practicalunittesting.chp03.money.MoneyIAETest
