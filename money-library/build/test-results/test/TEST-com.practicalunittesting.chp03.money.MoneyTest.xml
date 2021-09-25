@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.practicalunittesting.chp03.money.MoneyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-09-25T16:00:27" hostname="Sweets-MacBook-Air.local" time="0.0">
+  <properties/>
+  <testcase name="constructorShouldSetAmountAndCurrency" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.0"/>
+  <testcase name="shouldAddSameCurrencies(MyObject{amount=4, currency=USD}, MyObject{amount=3, currency=USD}, 7) [0]" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.0"/>
+  <testcase name="shouldAddSameCurrencies(MyObject{amount=1, currency=EUR}, MyObject{amount=4, currency=EUR}, 5) [1]" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.0"/>
+  <testcase name="shouldAddSameCurrencies(MyObject{amount=1234, currency=CHF}, MyObject{amount=234, currency=CHF}, 1468) [2]" classname="com.practicalunittesting.chp03.money.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

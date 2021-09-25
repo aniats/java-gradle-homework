@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.practicalunittesting.chp03.money.MoneyIAETest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-25T16:00:27" hostname="Sweets-MacBook-Air.local" time="0.022">
+  <properties/>
+  <testcase name="constructorShouldThrowIAEForInvalidCurrency(null) [0]" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.015"/>
+  <testcase name="constructorShouldThrowIAEForInvalidCurrency() [1]" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.001"/>
+  <testcase name="constructorShouldThrowIAEForInvalidAmount(-12387) [0]" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.005"/>
+  <testcase name="constructorShouldThrowIAEForInvalidAmount(-5) [1]" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.0"/>
+  <testcase name="constructorShouldThrowIAEForInvalidAmount(-1) [2]" classname="com.practicalunittesting.chp03.money.MoneyIAETest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
