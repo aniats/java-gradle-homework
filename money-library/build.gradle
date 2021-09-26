@@ -6,6 +6,7 @@
  */
 plugins {
     id 'java'
+    id 'maven-publish'
 }
 repositories {
     mavenCentral()
@@ -18,4 +19,19 @@ dependencies {
 }
 test {
     useJUnit()
+}
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            groupId = 'com.practicalunittesting.chp03.money'
+            artifactId = 'money-lib'
+            version = '1.0'
+            from components.java
+        }
+    }
+    repositories {
+        maven {
+            url = '../mvn-repo'
+        }
+    }
 }
